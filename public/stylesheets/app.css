@@ -1,0 +1,23 @@
+i.icon {
+    font-size: 2em;
+}
+
+.container.main{
+    margin-top: 7.0em;
+}
+
+#delete{
+    display: inline;
+}
+
+p {
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.content {
+    font-weight: bolder;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
